@@ -18,6 +18,12 @@
             "email": "john.smith@gmail.com",
             "password": "John@123",
             "id": 1
+        },
+        {
+            "username": "stevesmith",
+            "email": "steve.smith@gmail.com",
+            "password": "Steve@123",
+            "id": 2
         }
     ]
 }
